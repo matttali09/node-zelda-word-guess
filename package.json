@@ -1,0 +1,29 @@
+{
+  "name": "zelda-word-guess",
+  "version": "1.0.0",
+  "description": "zelda word guess game with node and multiple constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matttali09/node-zelda-word-guess.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "inquirer",
+    "javascript",
+    "constructors"
+  ],
+  "author": "Matt Taliancich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matttali09/node-zelda-word-guess/issues"
+  },
+  "homepage": "https://github.com/matttali09/node-zelda-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}

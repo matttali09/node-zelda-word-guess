@@ -38,7 +38,7 @@ let start = function () {
 promptUser = function () {
     // If the user still has guesses left ask them the question
     if (guessesRemaining > 0) {
-        console.log(`--------------------------------------------`);
+        console.log(`=======================================`);
         console.log(`Guesses remaining: ${guessesRemaining}`);
 
         // Display the current word with _ or correctly guessed letters from the Word and toString method
